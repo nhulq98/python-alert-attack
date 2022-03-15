@@ -1,0 +1,96 @@
+Point 3:  2.707399	66	0<class 'scapy.layers.inet.IP'>
+Point 4:  2.716385	66	0<class 'scapy.layers.inet.IP'>
+Point 5:  2.746615	66	0<class 'scapy.layers.inet.IP'>
+Point 6:  2.755619	119	53
+Point 7:  2.761006	119	53
+Point 8:  2.941927	183	117
+Point 9:  2.944686	66	0<class 'scapy.layers.inet.IP'>
+Point 10:  3.243127	1514	1448
+Point 11:  3.356975	1514	1448
+Point 12:  3.387938	66	0<class 'scapy.layers.inet.IP'>
+Point 13:  3.578495	66	0<class 'scapy.layers.inet.IP'>
+Point 14:  3.615419	119	53
+Point 15:  3.634326	119	53
+Point 16:  4.146886	519	453
+Point 17:  4.154663	135	69
+Point 19:  4.73548	1514	1448
+Point 20:  4.797981	1447	1381
+Point 21:  4.862595	66	0<class 'scapy.layers.inet.IP'>
+Point 22:  4.953933	1514	1448
+Point 23:  5.031517	1514	1448
+Point 24:  5.093838	1514	1448
+Point 25:  5.156138	1514	1448
+Point 26:  5.541612	66	0<class 'scapy.layers.inet.IP'>
+Point 27:  6.17068	66	0<class 'scapy.layers.inet.IP'>
+Point 28:  6.180605	1514	1448
+Point 29:  6.280029	1514	1448
+Point 30:  6.606682	1514	1448
+Point 31:  6.997539	1359	1293
+Point 32:  7.325015	66	0<class 'scapy.layers.inet.IP'>
+Point 33:  7.525783	199	133
+Point 35:  8.105747	1514	1448
+Point 36:  8.684755	1514	1448
+Point 37:  8.686834	1514	1448
+Point 38:  8.689365	1514	1448
+Point 39:  8.690379	1514	1448
+Point 40:  8.691077	66	0<class 'scapy.layers.inet.IP'>
+Point 41:  8.694043	66	0<class 'scapy.layers.inet.IP'>
+Point 42:  8.696722	66	0<class 'scapy.layers.inet.IP'>
+Point 43:  8.70428	1514	1448
+Point 44:  8.70479	66	0<class 'scapy.layers.inet.IP'>
+Point 45:  8.705281	1514	1448
+Point 46:  8.706478	1514	1448
+Point 47:  8.707098	1514	1448
+Point 48:  8.708709	1514	1448
+Point 49:  8.709453	1514	1448
+Point 50:  8.710464	66	0<class 'scapy.layers.inet.IP'>
+Point 51:  8.71274	66	0<class 'scapy.layers.inet.IP'>
+Point 52:  8.713867	154	88
+Point 53:  8.71597	1514	1448
+Point 54:  8.716804	66	0<class 'scapy.layers.inet.IP'>
+Point 55:  8.718709	66	0<class 'scapy.layers.inet.IP'>
+Point 56:  8.721748	66	0<class 'scapy.layers.inet.IP'>
+Point 57:  8.730184	498	432
+Point 58:  8.732196	66	0<class 'scapy.layers.inet.IP'>
+Point 59:  8.742778	66	0<class 'scapy.layers.inet.IP'>
+Point 60:  8.744273	1514	1448
+Point 61:  8.746806	1514	1448
+Point 62:  8.7478	1514	1448
+Point 63:  8.767548	1514	1448
+Point 64:  8.774098	1514	1448
+Point 65:  8.776743	154	88
+Point 66:  8.783153	1514	1448
+Point 67:  8.785609	66	0<class 'scapy.layers.inet.IP'>
+Point 68:  8.794704	1514	1448
+Point 69:  8.800316	66	0<class 'scapy.layers.inet.IP'>
+Point 70:  8.802899	66	0<class 'scapy.layers.inet.IP'>
+Point 71:  8.806381	1514	1448
+Point 72:  8.810381	66	0<class 'scapy.layers.inet.IP'>
+Point 73:  8.814016	66	0<class 'scapy.layers.inet.IP'>
+Point 74:  8.818223	66	0<class 'scapy.layers.inet.IP'>
+Point 75:  8.821429	66	0<class 'scapy.layers.inet.IP'>
+Point 76:  8.823895	66	0<class 'scapy.layers.inet.IP'>
+Point 77:  8.825333	1514	1448
+Point 78:  8.825922	1514	1448
+Point 79:  8.827032	1514	1448
+Point 80:  8.831969	66	0<class 'scapy.layers.inet.IP'>
+Point 81:  8.834111	1514	1448
+Point 82:  8.837852	66	0<class 'scapy.layers.inet.IP'>
+Point 83:  8.840099	66	0<class 'scapy.layers.inet.IP'>
+Point 84:  8.842458	410	344
+Point 85:  8.845577	1514	1448
+Point 86:  8.850707	66	0<class 'scapy.layers.inet.IP'>
+Point 87:  8.854172	66	0<class 'scapy.layers.inet.IP'>
+Point 88:  8.857391	66	0<class 'scapy.layers.inet.IP'>
+Point 89:  8.85922	1514	1448
+Point 90:  8.860871	1514	1448
+Point 91:  8.862092	1514	1448
+Point 92:  8.869313	66	0<class 'scapy.layers.inet.IP'>
+Point 93:  8.872805	66	0<class 'scapy.layers.inet.IP'>
+Point 94:  8.875573	66	0<class 'scapy.layers.inet.IP'>
+Point 95:  8.878562	66	0<class 'scapy.layers.inet.IP'>
+Point 96:  8.888798	1514	1448
+Point 97:  8.89077	1514	1448
+Point 98:  8.892934	1514	1448
+Point 99:  8.896133	66	0<class 'scapy.layers.inet.IP'>
+Point 100:  8.899291	66	0<class 'scapy.layers.inet.IP'>
